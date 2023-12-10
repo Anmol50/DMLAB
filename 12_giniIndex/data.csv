@@ -1,0 +1,13 @@
+Weather,Weekday,Transportation,TravelBudget,CanGoOnTrip
+Sunny,Monday,Car,High,Yes
+Rainy,Tuesday,Train,Medium,Yes
+Sunny,Wednesday,Bus,Low,No
+Cloudy,Thursday,Car,High,Yes
+Rainy,Friday,Train,Medium,Yes
+Sunny,Saturday,Bus,Low,No
+Cloudy,Sunday,Car,High,Yes
+Sunny,Monday,Train,Medium,Yes
+Rainy,Tuesday,Car,Low,No
+Sunny,Wednesday,Bus,High,Yes
+Cloudy,Thursday,Train,Medium,Yes
+

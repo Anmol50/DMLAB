@@ -1,0 +1,13 @@
+Weather,Weekday,CanGoOnTrip
+Sunny,Monday,Yes
+Rainy,Tuesday,Yes
+Sunny,Wednesday,No
+Cloudy,Thursday,Yes
+Rainy,Friday,Yes
+Sunny,Saturday,No
+Cloudy,Sunday,Yes
+Sunny,Monday,Yes
+Rainy,Tuesday,No
+Sunny,Wednesday,Yes
+Cloudy,Thursday,Yes
+
